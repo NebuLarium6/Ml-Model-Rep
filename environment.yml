@@ -1,4 +1,4 @@
-name: <GITHUB_REPOSITORY>
+name: Ml-Model-Rep
 channels:
   - anaconda
   - pytorch
